@@ -12,9 +12,9 @@ public class contigeous {
         int presum = 0;
         int longest = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++){
             // presum += (nums[i]==0 ? -1 : 1);
-            if (nums[i] == 0) {
+            if(nums[i] == 0) {
                 presum += -1;
             }
             else {
