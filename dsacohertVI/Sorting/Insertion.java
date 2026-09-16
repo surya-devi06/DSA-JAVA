@@ -1,6 +1,6 @@
 import java.util.*; // Import Arrays so we can print the array easily
 
-public class insertion {
+public class insertion{
 
     public static void main(String[] args) {
 
